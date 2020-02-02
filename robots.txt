@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bohkieyah.flowerpolly.ch/sitemap.xml
